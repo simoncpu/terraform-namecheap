@@ -1,0 +1,6 @@
+domain       = "example.org"
+name_servers = ["ns1.example.org","ns2.example.org"]
+user_name    = "username"
+api_user     = "username"
+api_key      = ""
+client_ip    = "192.88.99.1"
